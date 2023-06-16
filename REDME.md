@@ -10,4 +10,4 @@ json-server --watch -d 180 --host (PI DA MÁQUINA) db.json
 Foi utilizado nesse projeto o navigation stack e navigation bottom.
 Caso de erro instalar as libs.
 
-git 
+git teste
